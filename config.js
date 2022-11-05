@@ -3,35 +3,35 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6285857537269'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6285857537269']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'Ranzz ( Gilzz)'
+global.noown = '6285857537269'
+global.namebot = 'Ranzz Botzな'
+global.nobot = '6285835026864'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.instagram = 'https://instagram.com/agilz1120'
+global.github = 'https://github.com/AgilzElite'
+global.gc = '-'
+global.web = 'https://youtube.com/channel/UCWjpOXZb18hc09j9qRhxG1w' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://Lets-To-Web-Gilzz.agilganzz1.repl.co'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '085857537269'
+global.pulsa = '085857537269'
+global.gopay = '085857537269'
+global.shopay = '085857537269'
+global.ovo = '085857537269'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
-global.fotonya1 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.postimg.cc/FKNtCdd1/20221105-120134.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/FKNtCdd1/20221105-120134.jpg' //ini juga ganti 
 global.ppacc = 'https://telegra.ph/file/a077271ff372545599dbc.jpg'
 global.imgloc = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
 global.media = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'Ranzz Botzな'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 Ranzz'
+global.wm3 = '⫹⫺ Ranzz Botzな | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
